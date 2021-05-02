@@ -1,0 +1,6 @@
+f=open("text.txt","w")
+f.write("s.no=101\n")
+f.write("s.name=pavan\n")
+f.write("branch=cse\n")
+f.write("clg=IIT\n")
+f.close()
