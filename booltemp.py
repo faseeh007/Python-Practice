@@ -1,0 +1,7 @@
+x=float(input("Enter Hyderabad temperature:"))
+y=float(input("Enter Pune temperature:"))
+print("Pune has high temperature than Hyderabad: ",y>x)
+print("Pune has low temperature than Hyderabad: ",x>y)
+print("Pune and Hyderabad has same temperature: ",x==y)
+print("Hyderabad has high temperature than Pune: ",x>y)
+print("Hyderabad has low temperature than Pune: ",y>x)

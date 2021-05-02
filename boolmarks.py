@@ -1,0 +1,6 @@
+x=int(input("Enter Maths subject marks in between 40 to 90:"))
+print("You got excellent marks",(x<=90 and x>=75))
+print("You got distinction marks:"(x<=74 and x>=70))
+print("you got first class marks:"(x<=60 and x>=69))
+print("you got 100 marks:"(x=100))
+print("you got second class marks:"(x<=50 and x>=59))

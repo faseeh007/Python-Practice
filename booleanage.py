@@ -1,0 +1,6 @@
+age=int(input("Give your age  [1,100]?"))
+print("You have given ",age >=1 and age <=100,"age")
+print("You are young",(age >0 and age <30))
+print("You are middle aged",(age >=30 and age <60))
+print("You are senior citizen",(age >=60 and age <80))
+print("You are super senior citizen",(age >80 and age <=100))
