@@ -1,0 +1,4 @@
+s.no=101
+s.name=pavan
+branch=cse
+clg=IIT
